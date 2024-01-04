@@ -66,5 +66,4 @@ class Solution:
         result = compGraph.evaluate()
         return result
 
-
-print(Solution().calculate("2147483647"))
+print(Solution().calculate("(1+1)-3"))
